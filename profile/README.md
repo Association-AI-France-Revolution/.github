@@ -2,7 +2,7 @@
 
 <div align="center">
   
-![AI France Revolution Banner](https://user-images.githubusercontent.com/placeholder-for-your-banner-image.png)
+
 
 [![Twitter Follow](https://img.shields.io/twitter/follow/AIFR_AI?style=social)](https://x.com/AIFR_AI)
 [![YouTube Channel](https://img.shields.io/badge/YouTube-AIFranceRevolution-red)](https://www.youtube.com/@AIFranceRevolution)
